@@ -1,6 +1,6 @@
 # Astro TechPeople Blog Template
 
-A tech blog built with Astro collections, Markdown & TypeScript. You can view the live demo [here]()
+A tech blog built with Astro collections, Markdown & TypeScript. You can view the live demo [here](https://astro-blog-template-iota.vercel.app/)
 
 <img src="/public/images/screen.png" />
 
@@ -14,7 +14,7 @@ Install dependencies
 npm install
 ```
 
-## 🧞 Commands
+## Commands
 
 All commands are run from the root of the project, from a terminal:
 
@@ -35,11 +35,11 @@ Here is an example of frontmatter:
 
 ```md
 ---
-title: 'The best laptops for developers in 2024'
+title: "The best laptops for developers in 2024"
 pubDate: 2024-01-20
-author: 'John Doe'
-image: 'image1.png'
-tags: ['tech', 'hardware']
+author: "John Doe"
+image: "image1.png"
+tags: ["tech", "hardware"]
 slug: the-best-laptops-for-developers-in-2024
 ---
 ```
